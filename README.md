@@ -1,14 +1,16 @@
-# Enterprise Branch Network – Dynamic Routing with OSPF
+# Enterprise Branch Network with OSPF Dynamic Routing
 
 Implementation of OSPF dynamic routing in an enterprise branch network using Cisco Packet Tracer.
 
-![Enterprise Branch Network - OSPF](Dynamic-Routing-with-OSPF.jpeg)
+![Network Topology](Dynamic-Routing-with-OSPF.jpeg)
+
+---
 
 ## Overview
 
 This project demonstrates the implementation of OSPF (Open Shortest Path First) dynamic routing in an enterprise branch network using Cisco Packet Tracer.
 
-The topology consists of three routers connected through serial links. OSPF Area 0 is configured to dynamically exchange routing information and provide end-to-end connectivity across the network.
+The topology consists of three Cisco routers connected through serial links. OSPF Area 0 is configured to dynamically exchange routing information, allowing all routers to automatically learn remote networks and provide end-to-end connectivity.
 
 ---
 
@@ -18,7 +20,6 @@ The topology consists of three routers connected through serial links. OSPF Area
 - Cisco IOS CLI
 - OSPF (Open Shortest Path First)
 - Dynamic Routing
-- Router-on-a-Stick
 - VLANs
 - DHCP
 
@@ -49,11 +50,10 @@ The topology consists of three routers connected through serial links. OSPF Area
 ## Features
 
 - Dynamic routing using OSPF
-- Three interconnected routers
-- OSPF neighbor relationships in FULL state
 - Automatic route learning
+- OSPF neighbor adjacency (FULL state)
 - End-to-end connectivity verification
-- Inter-VLAN routing support
+- Multi-router enterprise topology
 - DHCP-enabled clients
 
 ---
