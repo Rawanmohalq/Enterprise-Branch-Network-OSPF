@@ -1,4 +1,5 @@
-# Enterprise-Branch-Network-OSPF
+# Enterprise Branch Network – Dynamic Routing with OSPF
+
 Implementation of OSPF dynamic routing in an enterprise branch network using Cisco Packet Tracer.
 
 ![Enterprise Branch Network - OSPF](Dynamic-Routing-with-OSPF.jpeg)
@@ -62,7 +63,18 @@ The topology consists of three routers connected through serial links. OSPF Area
 - OSPF neighbors reached the FULL state
 - Routing tables contain dynamically learned OSPF routes
 - Successful ping between connected networks
-- End-to-end connectivity verified
+- End-to-end connectivity verified using Ping
+
+---
+
+## Skills Demonstrated
+
+- OSPF Dynamic Routing
+- Cisco IOS CLI
+- Network Troubleshooting
+- Route Verification
+- Enterprise Network Design
+- Cisco Packet Tracer
 
 ---
 
@@ -70,10 +82,10 @@ The topology consists of three routers connected through serial links. OSPF Area
 
 - `Enterprise-Branch-Network-OSPF.pkt`
 - `Dynamic-Routing-with-OSPF.jpeg`
+- `README.md`
 
 ---
 
 ## Author
 
-Rawan Alqahtani
-
+**Rawan Alqahtani**
