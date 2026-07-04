@@ -1,6 +1,5 @@
 # Enterprise-Branch-Network-OSPF
 Implementation of OSPF dynamic routing in an enterprise branch network using Cisco Packet Tracer.
-# Enterprise Branch Network - OSPF
 
 ![Enterprise Branch Network - OSPF](Dynamic-Routing-with-OSPF.jpeg)
 
